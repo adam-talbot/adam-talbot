@@ -27,7 +27,7 @@ Libraries:
 - Spark API
 ---
 
-📫 You can reach me on LinkedIn
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/adamcodytalbot/)
 
 ---
 
