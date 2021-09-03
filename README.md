@@ -4,16 +4,16 @@ Welcome to my page!
 
 ---
 A little about me:
-- 🌱 Data Scientist
-- 🎓 BS in Biological Engineering
+- 🌱  Data Scientist
+- 🎓  BS in Biological Engineering
 ---
 Skills:
-- 🐍 Python 
-- 🎈 SQL
-- 🟧 Tableau
-- 📊 Google Suite
-- >>> Git
-- 📒 Jupyter Lab
+- 🐍  Python 
+- 🎈  SQL
+- 🟧  Tableau
+- 📊  Google Suite
+- >>>  Git
+- 📒  Jupyter Lab
 ---
 Libraries:
 - Pandas
@@ -27,11 +27,11 @@ Libraries:
 - Spark API
 ---
 
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/adamcodytalbot/)
+📫  You can reach me on [LinkedIn](https://www.linkedin.com/in/adamcodytalbot/)
 
 ---
 
-⚡ Fun fact: I am fluent in Spanish
+⚡  Fun fact: I am fluent in Spanish
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-talbot&show_icons=true&theme=dark&hide=stars,prs,issues)
