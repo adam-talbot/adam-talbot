@@ -1,3 +1,5 @@
+![adam talbot intro](https://github.com/adam-talbot/adam-talbot/blob/main/adam-talbot-intro.gif)
+
 Hi there 👋
 
 Welcome to my page!
