@@ -1,7 +1,3 @@
-<gif-player src="https://github.com/adam-talbot/adam-talbot/blob/main/adam-talbot-intro.gif" speed="2" play></gif-player>
-
-![adam talbot intro](https://github.com/adam-talbot/adam-talbot/blob/main/adam-talbot-intro.gif)
-
 Hi there 👋
 
 Welcome to my page!
