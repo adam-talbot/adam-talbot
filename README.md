@@ -6,11 +6,14 @@ A little about me:
 - 🎓 BS in Biological Engineering
 ---
 Skills:
-
-🐍 Python 🎈 SQL 🟧 Tableau 📊 Google Suite >>> Git 📒 Jupyter Lab
+- 🐍 Python 
+- 🎈 SQL
+- 🟧 Tableau
+- 📊 Google Suite
+- >>> Git
+- 📒 Jupyter Lab
 ---
 Libraries:
-
 - Pandas
 - Numpy
 - Seaborn
@@ -20,7 +23,7 @@ Libraries:
 - NLTK
 - SciPy
 - Spark API
---
+---
 📫 You can reach me on LinkedIn
 ---
 ⚡ Fun fact: I am fluent in Spanish
