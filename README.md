@@ -2,13 +2,16 @@ Hi there 👋
 Welcome to my page!
 ---
 A little about me:
+
 🌱 Data Scientist
 🎓 BS in Biological Engineering
 ---
 Skills:
+
 🐍 Python 🎈 SQL 🟧 Tableau 📊 Google Suite >>> Git 📒 Jupyter Lab
 ---
 Libraries:
+
 Pandas
 Numpy
 Seaborn
