@@ -1,4 +1,5 @@
-Hi there 👋  Welcome to my page!
+Hi there 👋 
+Welcome to my page!
 
 ---
 A little about me:
