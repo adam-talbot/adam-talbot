@@ -1,6 +1,4 @@
-Hi there 👋
-
-Welcome to my page!
+Hi there 👋  Welcome to my page!
 
 ---
 A little about me:
@@ -38,5 +36,3 @@ Libraries:
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adam-talbot&theme=dark)](https://git.io/streak-stats)
 --
-
-
