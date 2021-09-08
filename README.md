@@ -12,7 +12,7 @@ Skills:
 - 🎈  SQL
 - 🟧  Tableau
 - 📊  Google Suite
-- >>>  Git
+- ![GitHub-Mark-Light-32px](https://user-images.githubusercontent.com/85951186/132585794-0924cb96-c727-4eaf-841b-632c3c5b5657.png) Git
 - 📒  Jupyter Lab
 ---
 Libraries:
