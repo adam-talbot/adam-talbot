@@ -5,7 +5,7 @@ Welcome to my page!
 ---
 A little about me:
 - 🌱  Data Scientist
-- 🎓  BS in Biological Engineering
+- 🎓  BS in Biological Engineering 
 ---
 Skills:
 - 🐍  Python 
