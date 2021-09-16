@@ -1,18 +1,18 @@
-Hi there 👋 
+Hi there 👋
 
 Welcome to my page!
 
 ---
 A little about me:
 - 🌱  Data Scientist
-- 🎓  BS in Biological Engineering 
+- 🎓  BS in Biological Engineering
 ---
 Skills:
-- 🐍  Python 
+- 🐍  Python
 - 🎈  SQL
 - 🟧  Tableau
 - 📊  Google Suite
-- ![GitHub-Mark-Light-32px](https://user-images.githubusercontent.com/85951186/132585794-0924cb96-c727-4eaf-841b-632c3c5b5657.png) Git
+- ![GitHub-Mark-Light-32px](https://user-images.githubusercontent.com/85951186/132585794-0924cb96-c727-4eaf-841b-632c3c5b5657.png)  Git
 - 📒  Jupyter Lab
 ---
 Libraries:
